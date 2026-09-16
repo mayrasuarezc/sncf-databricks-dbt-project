@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: dbt_gold_station_traffic
+    columns:
+      - name: stop_id
+        tests:
+          - not_null
+          - relationships:
+              to: source('transport', 'bronze_stops')
+              field: stop_id
+
+  - name: dbt_gold_trip_summary
+    columns:
+      - name: trip_id
+        tests:
+          - not_null
+      - name: route_id
+        tests:
+          - not_null
