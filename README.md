@@ -6,7 +6,10 @@ This is a personal portfolio project, built to practice and demonstrate the mode
 
 ## Dashboard Preview
 
-![SNCF Dashboard](C:\Users\Mayra\Desktop\AnalyticsEngineer_Practice\sncf_dbt\docs)
+![SNCF Dashboard](<img width="662" height="489" alt="image" src="https://github.com/user-attachments/assets/42e1fd98-6276-4e65-857f-975613c30eb8" />
+
+
+)
 
 ## Architecture
 
