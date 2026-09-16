@@ -6,7 +6,7 @@ This is a personal portfolio project, built to practice and demonstrate the mode
 
 ## Dashboard Preview
 
-![SNCF Dashboard](docs/dashboard_screenshot.png)
+![SNCF Dashboard](C:\Users\Mayra\Desktop\AnalyticsEngineer_Practice\sncf_dbt\docs)
 
 ## Architecture
 
