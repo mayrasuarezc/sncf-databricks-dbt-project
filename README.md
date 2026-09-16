@@ -183,6 +183,7 @@ dbt test
 \- \*\*Station traffic\*\* (number of stops/trips per station)
 
 
+C:\Users\Mayra\Desktop\AnalyticsEngineer_Practice\sncf_dbt\docs
 
 \## Notes
 
